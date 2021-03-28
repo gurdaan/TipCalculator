@@ -1,0 +1,13 @@
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojResolveAssemblyReference.cache
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\Window1.baml
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\Window1.g.cs
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\App.g.cs
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\TipCalculator_MarkupCompile.cache
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\TipCalculator.g.resources
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\TipCalculator_MarkupCompile.lref
+C:\Users\gurdaan.walia\Documents\SharpDevelop Projects\TipCalculator\TipCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
